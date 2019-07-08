@@ -1,0 +1,261 @@
+*
+		{
+			margin:0;
+			padding:0;
+			
+
+
+
+		}
+		
+		.top_heading
+		{
+			background-color: lightblue;
+			width:80%;
+			height: 140px;
+			margin: auto;
+			text-align: center;
+			background-color: #9D2A11;
+			margin-top: 10px;
+			border:1px solid #9D2A11;
+			border-radius: 8px;
+			box-shadow: 3px 3px 2px gray;
+
+		}
+		
+		.top_heading h1
+		
+		{
+			color: white;
+			font-weight: 800;
+			font-size: 50px;
+		}
+
+		.top_heading h3
+		{
+			color: white;
+			font-weight: 400;
+
+
+		}
+		.menu
+		{
+			width: 80%
+			background-color:lightblue;
+			border:1px solid blue;
+			border-radius: 6px;
+		}
+
+		.menu_container
+		{
+			width: 80%;
+			margin: auto;
+			background-color: black;
+			border:1px solid black;
+			border-radius: 6px;
+			box-shadow: 3px 3px 2px gray;
+			
+		}
+		.menu ul
+		{
+			margin-bottom: 5px;
+		}
+
+		.menu ul li
+		{
+			list-style-type: none;
+			display: inline-block;
+			width: 170px;
+
+		}
+		.menu ul li a
+		{
+			color:white;
+			text-decoration: none;
+			font-size: 20px;
+			margin: 10px 0px 0px 5px;
+			display: block;
+			l
+
+
+
+		}
+		.notice
+		{
+			/*background-color: yellow;*/
+			/*border:1px solid red;*/
+			width: 80%;
+			margin: auto;
+		}
+
+		.notice_text
+		{
+		margin-left: 85px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		font-size: 18px;
+		font-style: 
+		color:red;
+		}
+		.notice_text h4
+		{
+			margin-left: 180px;
+			color: red;
+
+		}
+		.moving_text
+		{
+			/*border: 1px solid red;*/
+			width: 80%;
+			height: 110px;
+			margin: auto;
+		}
+
+		.not_moving_link a
+		{
+			color:blue;
+			/*text-decoration: none;*/
+			font-size: 20px;
+			margin: 10px 0px 0px 5px;
+			display: inline-block;
+			font-style: bold;
+			font-weight: 1000;
+			margin-left: 20px;
+			l
+		}
+	.moving_link a
+	{
+		color:blue;
+			/*text-decoration: none;*/
+			font-size: 18px;
+			/*margin: 10px 0px 0px 5px;*/
+			display: inline-block;
+			font-style: bold;
+			font-weight: 1000;
+			margin-left: 20px;
+	}
+
+			
+			.fb_container
+			{
+				background-color: blue;
+				width: 290px;
+				margin-left: 38%;
+				height: 45px;
+				/*align-content: center;*/
+
+
+			}
+
+			.facebook_button a
+			{
+				background-color: blue;
+				color: white;
+				text-decoration: underline;
+
+
+
+
+			}
+
+
+			.three_blocks_container
+			{
+				width: 90%;
+				height:700px;
+				/*border:1px solid green;*/
+				margin:auto;
+				display: flex;
+
+				margin-top: 10px;
+
+			}
+
+			.block1
+			{
+				width: 27%;
+				border:3px solid gray;
+				height: 700px;
+				margin-left: 53px;
+				box-shadow: 5px 5px 2px gray;
+				border-radius: 10px;
+
+			}
+
+			.block2
+			{
+				width: 27%;
+				border:3px solid gray;
+				height: 700px;
+				margin-left: 53px;
+				/*overflow: hidden;*/
+				box-shadow: 5px 5px 2px gray;
+				border-radius: 10px;
+			}
+			
+			.block3
+			{
+				width: 27%;
+				border:3px solid gray;
+				height: 700px;
+				margin-left: 53px;
+				/*overflow: hidden;*/
+				box-shadow: 5px 5px 2px gray;
+				border-radius: 10px;
+			}
+		
+		.block_heading
+		{
+			width: 97%;
+			height: 40px;
+			background-color: #9D2A11;
+			margin:auto;
+			border:2px solid #9D2A11;
+			border-radius: 5px;
+			box-shadow: 4px 4px 2px black;
+
+		}
+
+			.block_heading h1
+			{
+				color: white;
+				font-size: 30px;
+				margin-left: 70px;
+			}
+
+		
+			.blocks_content ul
+			{
+				width: 90%;
+				margin:auto;
+				margin-top: 18px;
+
+			}
+
+			.blocks_content ul a
+			{
+				font-style: bold;
+				font-size: 20px;
+				color: blue;
+			}
+
+			.blocks_content ul a:hover
+			{
+				color:#9D2A11;
+			}
+			.blocks_content ul li
+			{
+				margin-top: 14px;
+			}
+
+			.tq
+			{
+				/*margin-top: 30px;*/
+				width: 70%;
+				height: 270px;
+				background-color: black;
+				margin:auto;
+				border:3px solid pink;
+				border-radius: 80px;
+				box-shadow: 4px 4px 2px red;
+			}
